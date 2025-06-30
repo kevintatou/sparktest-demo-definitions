@@ -1,5 +1,5 @@
 {
-  "name": "SAPI Smoke Test",
+  "name": "SAPI Smokey Tests",
   "description": "Basic smoke test for the public API endpoints.",
   "image": "node:18-alpine",
   "commands": [
