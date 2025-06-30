@@ -1,0 +1,9 @@
+{
+  "name": "API Smoke Test",
+  "description": "Basic smoke test for the public API endpoints.",
+  "image": "node:18-alpine",
+  "commands": [
+    "npm ci",
+    "npm run test:smoke"
+  ]
+}
